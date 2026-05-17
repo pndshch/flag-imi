@@ -1,0 +1,16 @@
+Flag SVG files in this directory
+================================
+
+Source: hampusborgos/country-flags
+        https://github.com/hampusborgos/country-flags
+
+Files are named by ISO 3166-1 alpha-2 country code (e.g. jp.svg), with
+xk.svg used for Kosovo.
+
+National flag designs are in the public domain — they are not protected
+by copyright, and the source repository states the same. These SVG files
+are redistributed here on that basis.
+
+Note: some countries place separate legal rules on how their flag may be
+displayed or used. Those rules are independent of copyright status and are
+not affected by the public-domain nature of the design.
